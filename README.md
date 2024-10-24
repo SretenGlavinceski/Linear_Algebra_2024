@@ -1,1 +1,1 @@
-# Linear_Algebra_2024
+Linear Algebra and Applications Course 2024 
